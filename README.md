@@ -11,4 +11,5 @@
 <img src="https://raw.githubusercontent.com/ithjz/SellVideo/master/%E8%B5%84%E6%96%99%E5%9F%B9%E8%AE%AD.png" width = "430" height = "220" alt="视频部分"  />
 
 
+<img src="https://raw.githubusercontent.com/ithjz/SellVideo/master/%E8%B5%84%E6%96%99%E5%9F%B9%E8%AE%AD4.png" width = "430" height = "220" alt="视频部分"  />
 
