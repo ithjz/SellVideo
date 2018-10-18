@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/vipstone/faceai/master/res/gender.png" width = "430" height = "220" alt="性别识别"  />
 
-
+<img src="https://raw.githubusercontent.com/ithjz/SellVideo/master/%E8%B5%84%E6%96%99%E5%9F%B9%E8%AE%AD.png" width = "430" height = "220" alt="视频部分"  />
 
 
 
